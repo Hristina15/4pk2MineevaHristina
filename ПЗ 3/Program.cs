@@ -100,7 +100,7 @@ class Program
 
         Console.WriteLine($"Имя: {moduleNameString}\n" +
         $"Дескриптор: {moduleHandleResult}\n");
-        
+         
     }
 }
 

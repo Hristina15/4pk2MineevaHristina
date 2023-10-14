@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationApp ПЗ.6", "Nav
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ПЗ.5", "ПЗ.5\ПЗ.5.vcxproj", "{82834DB8-FD65-4A62-A1F4-843FF9DD6EE9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ПЗ.7", "ПЗ.7\ПЗ.7.vcxproj", "{0A6C13CA-BD92-478D-ACA4-362106B74CA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,26 @@ Global
 		{82834DB8-FD65-4A62-A1F4-843FF9DD6EE9}.Release|x64.Build.0 = Release|x64
 		{82834DB8-FD65-4A62-A1F4-843FF9DD6EE9}.Release|x86.ActiveCfg = Release|Win32
 		{82834DB8-FD65-4A62-A1F4-843FF9DD6EE9}.Release|x86.Build.0 = Release|Win32
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|Any CPU.Build.0 = Debug|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|ARM.ActiveCfg = Debug|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|ARM.Build.0 = Debug|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|ARM64.ActiveCfg = Debug|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|ARM64.Build.0 = Debug|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|x64.ActiveCfg = Debug|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|x64.Build.0 = Debug|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Debug|x86.Build.0 = Debug|Win32
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|Any CPU.ActiveCfg = Release|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|Any CPU.Build.0 = Release|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|ARM.ActiveCfg = Release|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|ARM.Build.0 = Release|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|ARM64.ActiveCfg = Release|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|ARM64.Build.0 = Release|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|x64.ActiveCfg = Release|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|x64.Build.0 = Release|x64
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|x86.ActiveCfg = Release|Win32
+		{0A6C13CA-BD92-478D-ACA4-362106B74CA6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

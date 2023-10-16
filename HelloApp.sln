@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ.8", "ПЗ.8\ПЗ.8.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ.9", "ПЗ.9\ПЗ.9.csproj", "{A18062E4-2984-4F43-A263-5B919B82199D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПЗ.10", "ПЗ.10\ПЗ.10.csproj", "{6E918818-7127-454C-9F1B-EE6A49620138}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,26 @@ Global
 		{A18062E4-2984-4F43-A263-5B919B82199D}.Release|x64.Build.0 = Release|Any CPU
 		{A18062E4-2984-4F43-A263-5B919B82199D}.Release|x86.ActiveCfg = Release|Any CPU
 		{A18062E4-2984-4F43-A263-5B919B82199D}.Release|x86.Build.0 = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|ARM.Build.0 = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|x64.Build.0 = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Debug|x86.Build.0 = Debug|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|ARM.ActiveCfg = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|ARM.Build.0 = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|ARM64.Build.0 = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|x64.ActiveCfg = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|x64.Build.0 = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E918818-7127-454C-9F1B-EE6A49620138}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ПЗ_13(продолжен�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ПЗ_14", "ПЗ_14\ПЗ_14.vcxproj", "{87B8FC5A-6921-4335-BFDF-B30968865987}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ПЗ_15", "ПЗ_15\ПЗ_15.vcxproj", "{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -379,6 +381,26 @@ Global
 		{87B8FC5A-6921-4335-BFDF-B30968865987}.Release|x64.Build.0 = Release|x64
 		{87B8FC5A-6921-4335-BFDF-B30968865987}.Release|x86.ActiveCfg = Release|Win32
 		{87B8FC5A-6921-4335-BFDF-B30968865987}.Release|x86.Build.0 = Release|Win32
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|Any CPU.Build.0 = Debug|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|ARM.ActiveCfg = Debug|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|ARM.Build.0 = Debug|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|ARM64.ActiveCfg = Debug|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|ARM64.Build.0 = Debug|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|x64.ActiveCfg = Debug|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|x64.Build.0 = Debug|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Debug|x86.Build.0 = Debug|Win32
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|Any CPU.ActiveCfg = Release|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|Any CPU.Build.0 = Release|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|ARM.ActiveCfg = Release|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|ARM.Build.0 = Release|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|ARM64.ActiveCfg = Release|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|ARM64.Build.0 = Release|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|x64.ActiveCfg = Release|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|x64.Build.0 = Release|x64
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|x86.ActiveCfg = Release|Win32
+		{0CD5139C-FAF8-472B-B6B9-AD26B6D9494A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

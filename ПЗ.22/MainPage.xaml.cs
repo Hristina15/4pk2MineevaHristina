@@ -28,8 +28,8 @@ namespace ПЗ._22
             { "Кофе", 120.50 },
             { "Сумка", 15060 },
             { "Кружка", 100.99 }
-        };
 
+        };
         public MainPage()
         {
             this.InitializeComponent();
